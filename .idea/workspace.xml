@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ef5a874-acc6-4b20-8292-a1331ea5880f" name="Default Changelist" comment="" />
+    <list default="true" id="5ef5a874-acc6-4b20-8292-a1331ea5880f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/env/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install-3.8-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install-3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install-3.8.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/env/Scripts/easy_install.exe.manifest" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +36,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SourceCode/src_django/accounts" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yyamini\PycharmProjects\Flask_todo_lList\SourceCode\src_django\accounts" />
+      <recent name="C:\Users\yyamini\PycharmProjects\Flask_todo_lList\SourceCode\src_django\traveller" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -106,10 +126,25 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="411" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631180840584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="411" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1631180840584" />
+    <state x="57" y="0" key="SettingsEditor" timestamp="1631184693796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="57" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1631184693796" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1631180136402">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631180136402" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1631184616882">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1631184616882" />
   </component>
 </project>
